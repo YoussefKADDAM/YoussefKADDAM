@@ -55,6 +55,3 @@ Predict laptop prices using ML feature engineering & regression models.
 </a>
 </p>
 
----
-
-### ⭐ *If you like my work, feel free to star my repositories!* ⭐
