@@ -15,7 +15,7 @@
 - 🔥 Recently built:
   - **PDF RAG Q&A App** using LangChain + Ollama  
   - **Laptop Price Predictor App** using ML & Streamlit  
-- 🧠 Always learning and exploring new AI tools, LLMs & embeddings.
+- 🧠 Always learning and exploring new AI tools.
 
 ---
 
