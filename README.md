@@ -35,7 +35,7 @@
 ## 📌 Featured Projects
 
 ### 📘 **PDF Q&A RAG App (Ollama + LangChain)**
-Ask questions to any PDF using a local LLM (Llama 3 / Mistral).  
+Ask questions to any PDF using a local LLM.  
 🔗 https://github.com/YoussefKADDAM/PDF-RAG-App
 
 ### 💻 **Laptop Price Predictor App**
