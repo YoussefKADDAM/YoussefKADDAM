@@ -36,7 +36,7 @@
 
 ### 📘 **PDF Q&A RAG App (Ollama + LangChain)**
 Ask questions to any PDF using a local LLM (Llama 3 / Mistral).  
-🔗 *Repo coming soon / add link here*
+🔗 https://github.com/YoussefKADDAM/PDF-RAG-App
 
 ### 💻 **Laptop Price Predictor App**
 Predict laptop prices using ML feature engineering & regression models.  
