@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 ML & Data Science enthusiast passionate about **solving real-world problems with AI**.  
-- 🤖 Experienced in **Machine Learning, Deep Learning, NLP, and RAG systems**.  
+- 🤖 Experienced in **Machine Learning, NLP, and RAG systems**.  
 - 🧩 I enjoy building **end-to-end AI projects** — from data cleaning → training → deployment.  
 - 🔥 Recently built:
   - **PDF RAG Q&A App** using LangChain + Ollama  
